@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I../src",
+      "-Wall",
+      "-Werror",
+      "-c",
+      "-o",
+      "obj/Debug/femtolog_pg/main.o",
+      "../pg/main.c"
+    ],
+    "directory": "/home/albin/coding-projects/femtolog/build",
+    "file": "/home/albin/coding-projects/femtolog/pg/main.c",
+    "output": "/home/albin/coding-projects/femtolog/build/obj/Debug/femtolog_pg/main.o"
+  }
+]
